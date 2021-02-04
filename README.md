@@ -1,4 +1,4 @@
-# SimpleChat
+# Chat by room
 
 Built with:
 
@@ -15,7 +15,7 @@ This is just a <strong>proof of concept</strong> of what could be done with thes
 
 ### Get the code
 
-    git clone https://github.com/tegioz/chat.git
+    git clone https://github.com/dorbalmas/chatRoom.git
 
 ### Run
 
