@@ -1,6 +1,6 @@
 {
   "name": "simplechat",
-  "author": "Sergio Castaño Arteaga - sergio.castano.arteaga@gmail.com",
+  
   "description": "SimpleChat",
   "scripts": {
     "start": "nodemon chatServer.js"
